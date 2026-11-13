@@ -53,7 +53,7 @@ step — it is normal to pause, rewind, and rewatch parts of a coding demonstrat
 > CSS, and follow this repo for getting your files and submitting:
 >
 > - **Getting the starter files:** don't download `venthaven_start.zip`. Create your own repo
->   from this template and open it with GitHub Desktop, as described in the
+>   from this template and clone it in WebStorm, as described in the
 >   [Getting Started guide](GETTING_STARTED.md). The starter files are already in the root of your
 >   repo, not in a `venthaven` folder.
 > - **Naming your files:** the home page must be **`index.html`** in the root of the repo.
