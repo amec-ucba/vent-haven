@@ -54,13 +54,13 @@ step — it is normal to pause, rewind, and rewatch parts of a coding demonstrat
 >
 > - **Getting the starter files:** don't download `venthaven_start.zip`. Create your own repo
 >   from this template and open it with GitHub Desktop, as described in the
->   [README](README.md#-getting-started). The starter files are already in the root of your
+>   [Getting Started guide](GETTING_STARTED.md). The starter files are already in the root of your
 >   repo, not in a `venthaven` folder.
 > - **Naming your files:** the home page must be **`index.html`** in the root of the repo.
 >   GitHub Pages only serves `index.html` at your site's root URL.
 > - **Submitting:** don't zip your folder or upload a file. Publish your site to GitHub Pages and
 >   submit a pull request URL in Canvas, as described in the
->   [README](README.md#-submitting-the-assignment).
+>   [Submitting guide](SUBMITTING.md).
 
 ## 📂 Starter Files
 
@@ -319,4 +319,4 @@ GitHub Pages URL and your pull request URL so your instructor can see your code.
 
 ---
 
-The AI policy and submission instructions are in the [README](README.md).
+The AI policy and submission instructions are in the [README](../README.md).
